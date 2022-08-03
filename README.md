@@ -1,0 +1,2 @@
+# MFSecurityLibSpec
+MFSecurity framework spec
